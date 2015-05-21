@@ -36,3 +36,7 @@ Pode submeter os problemas no Mooshak TOPAS Virtual na versão Original (https:/
 # Utilização do Código
 
 Utilize a solução destes problemas para ajudar na compreensão do seu código!
+
+# NOTAS
+
+Alguns problemas encontram-se resolvidos com código mal encadeado, código desnecessário e tecnicas de resolução mais lentas porque já foram feitos há algum tempo.
