@@ -1,10 +1,4 @@
-#TOPAS - Treino
-
-O ToPAS consiste num concurso de programação destinado a estudantes do ensino secundário.
-
-Linguagem usada: C / C++
-
-#Anos Resolvidos
+#TOPAS - Treino | Anos Resolvidos
 
 2005 - A (ACCEPTED) && B (ACCEPTED)
 
@@ -28,15 +22,3 @@ Linguagem usada: C / C++
 
 2015 - A (ACCEPTED) && B (ACCEPTED)
 
-#Submeter
-
-Pode submeter os problemas no Mooshak TOPAS Virtual na versão Original (https://mooshak.dcc.fc.up.pt/~topas-virtual/) ou na versão 2.0 (https://mooshak.dcc.fc.up.pt/ToPAS-Virtual-2/)
-
-
-# Utilização do Código
-
-Utilize a solução destes problemas para ajudar na compreensão do seu código!
-
-# NOTAS
-
-Alguns problemas encontram-se resolvidos com código mal encadeado, código desnecessário e tecnicas de resolução mais lentas porque já foram feitos há algum tempo.
